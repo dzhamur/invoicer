@@ -2,12 +2,6 @@
 
 This project offers a simple and efficient invoice generation tool designed specifically for freelancers, small businesses, and contractors. It allows users to quickly create professional, personalized invoices.
 
-### Technologies Used
-
-- **PDF Generator:** [React PDF](https://react-pdf.org/)
-- **Framework:** [Next.js](https://nextjs.org)
-- **Styling:** [Tailwind CSS](http://tailwindcss.com)
-
 ### Running Locally
 
 Ensure that you have Bun installed.
