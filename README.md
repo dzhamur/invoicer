@@ -7,8 +7,8 @@ This project offers a simple and efficient invoice generation tool designed spec
 Ensure that you have Bun installed.
 
 ```bash
-git clone https://github.com/pranavp10/invoice-generator.git
-cd invoice-generator
+git clone https://github.com/dzhamur/invoicer.git
+cd invoicer
 bun install
 bun run dev
 ```
