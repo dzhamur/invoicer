@@ -37,12 +37,12 @@ export const metadata: Metadata = {
     url: process.env.NEXT_PUBLIC_URL,
     type: "website",
     images: "/og-image.jpeg",
-    siteName: "Invoice Generator",
+    siteName: "Faktura.to",
   },
   twitter: {
     card: "summary_large_image",
-    site: "@ThatsPranav",
-    creator: "@ThatsPranav",
+    site: "@dzhamur",
+    creator: "@drac",
   },
 };
 
