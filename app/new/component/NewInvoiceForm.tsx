@@ -38,8 +38,8 @@ export const NewInvoiceForm = () => {
                   alt="logo"
                 />
                 <div>
-                  <p className="font-semibold">Invoice Generator</p>
-                  <p className="text-orange-500 text-sm">By Prolab</p>
+                  <p className="font-semibold">Faktura.to</p>
+                  <p className="text-gray-600 text-sm">By Dzhamur Softuer EOOD</p>
                 </div>
               </div>
               <UserInputForm />
